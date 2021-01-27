@@ -2,4 +2,4 @@
 
 
 ### Emphasis
-*You can find all the explanation in each folder (README).
+You can find all the explanation in each folder (README).
